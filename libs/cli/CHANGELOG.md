@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.0.35](https://github.com/langchain-ai/deepagents/compare/deepagents-cli==0.0.34...deepagents-cli==0.0.35) (2026-03-17)
+
+
+### Features
+
+* **sdk:** rename backend methods ([#1907](https://github.com/langchain-ai/deepagents/issues/1907)) ([7665066](https://github.com/langchain-ai/deepagents/commit/7665066c093c2583c4cd3bf83515b0906277306f))
+
+
+### Bug Fixes
+
+* **cli:** misleading "missing package" error when provider import fails ([#1960](https://github.com/langchain-ai/deepagents/issues/1960)) ([b90fbad](https://github.com/langchain-ai/deepagents/commit/b90fbad1335222a3b7ceb469f7f46fedec79ac61))
+
 ## [0.0.34](https://github.com/langchain-ai/deepagents/compare/deepagents-cli==0.0.33...deepagents-cli==0.0.34) (2026-03-17)
 
 ### Features
