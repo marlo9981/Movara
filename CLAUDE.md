@@ -13,7 +13,7 @@ It ships planning (`write_todos`), filesystem tools, shell execution, sub-agent 
 and smart context management out of the box.
 
 - **PyPI package:** `deepagents` (v0.5.0)
-- **Default model:** Claude Sonnet 4.6 (`claude-sonnet-4-6`)
+- **Default model:** Claude 3.5 Sonnet (claude-3-5-sonnet-latest)
 - **Docs:** https://docs.langchain.com/oss/python/deepagents/overview
 - **License:** MIT
 
