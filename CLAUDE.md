@@ -49,7 +49,7 @@ All packages are independently versioned.
 
 | Layer | Technology |
 |-------|-----------|
-| Language | Python 3.11+ (acp: 3.14+) |
+| Language | Python 3.11+ (acp: 3.12+) |
 | Package manager | `uv` (replaces pip/poetry) |
 | Agent framework | LangGraph + LangChain |
 | Default LLM | Anthropic Claude (via `langchain-anthropic`) |
