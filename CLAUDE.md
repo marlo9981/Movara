@@ -53,7 +53,7 @@ All packages are independently versioned.
 | Package manager | `uv` (replaces pip/poetry) |
 | Agent framework | LangGraph + LangChain |
 | Default LLM | Anthropic Claude (via `langchain-anthropic`) |
-| TUI (CLI only) | Textual 8+ |
+| TUI (CLI only) | Textual 1.0+ |
 | Linter/formatter | Ruff |
 | Type checker | `ty` |
 | Test runner | pytest + pytest-asyncio (auto mode) + pytest-xdist |
