@@ -67,7 +67,7 @@ All packages are independently versioned.
 from deepagents import create_deep_agent
 
 agent = create_deep_agent(
-    model="anthropic:claude-sonnet-4-6",   # or any LangChain BaseChatModel
+    model="anthropic:claude-3-5-sonnet-latest",   # or any LangChain BaseChatModel
     tools=[my_tool],                        # additional tools
     system_prompt="You are a ...",
     middleware=[],                          # AgentMiddleware instances
